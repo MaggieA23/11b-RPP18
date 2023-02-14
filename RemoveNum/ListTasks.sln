@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveNum", "ListTasks\Remo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNegNums", "..\RemoveNegNums\RemoveNegNums.csproj", "{6639AA41-504D-402E-8705-01AA7295EB8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MargeLists", "..\MargeLists\MargeLists.csproj", "{2E454F2C-798E-4EC9-B7C0-ECFD52BBDD41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6639AA41-504D-402E-8705-01AA7295EB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6639AA41-504D-402E-8705-01AA7295EB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6639AA41-504D-402E-8705-01AA7295EB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E454F2C-798E-4EC9-B7C0-ECFD52BBDD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E454F2C-798E-4EC9-B7C0-ECFD52BBDD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E454F2C-798E-4EC9-B7C0-ECFD52BBDD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E454F2C-798E-4EC9-B7C0-ECFD52BBDD41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
