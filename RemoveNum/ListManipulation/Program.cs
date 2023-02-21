@@ -16,12 +16,15 @@ namespace ListManipulation
                 string command = input[0];
                 if (command.ToLower()=="print")
                 {
-                    Console.WriteLine(string.Join(" ",nums));
+                   
                     break;
                 }
                 switch (command)
                 {
-                    case "add":
+                    case "add": var index = int.Parse(input[1]);
+                        var element = int.Parse(input[2]);
+                        nums.Insert(index, element);
+
                         break;
                     case "addMany":
                         break;
@@ -34,6 +37,7 @@ namespace ListManipulation
                     case "sumPairs":
                         break;
                 }
+                Console.WriteLine(string.Join(" ", nums));
             }
         }
     }
