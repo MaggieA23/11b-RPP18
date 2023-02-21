@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MargeLists", "..\MargeLists
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChislaKvadrat", "ChislaKvadrat\ChislaKvadrat.csproj", "{D2A6963E-C82B-485C-953C-266EC8856278}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListManipulation", "ListManipulation\ListManipulation.csproj", "{BF95E3D8-9AB7-47BA-8A52-AC0A53BBA786}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D2A6963E-C82B-485C-953C-266EC8856278}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2A6963E-C82B-485C-953C-266EC8856278}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2A6963E-C82B-485C-953C-266EC8856278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF95E3D8-9AB7-47BA-8A52-AC0A53BBA786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF95E3D8-9AB7-47BA-8A52-AC0A53BBA786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF95E3D8-9AB7-47BA-8A52-AC0A53BBA786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF95E3D8-9AB7-47BA-8A52-AC0A53BBA786}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
